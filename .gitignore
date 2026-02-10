@@ -1,0 +1,18 @@
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE files
+.idea/
+.vscode/
+*.sublime-*
+
+# Node modules (if used for testing)
+node_modules/
+package-lock.json
+
+# Logs
+*.log
